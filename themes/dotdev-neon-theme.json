@@ -1,5 +1,5 @@
 {
-  "name": "Prradox Neon",
+  "name": "DotDev Neon",
   "type": "dark",
   "colors": {
     // Editor
@@ -22,7 +22,7 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#FFFF00"
       }
     },
     {
@@ -43,7 +43,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#FFF"
       }
     },
     {
@@ -63,8 +63,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        // "foreground": "#fff"
-        "foreground": "#fff"
+        "foreground": "#FFF"
       }
     },
     {
@@ -395,7 +394,7 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#eee"
+        "foreground": "#fff"
       }
     },
     {
@@ -411,7 +410,7 @@
         "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
       ],
       "settings": {
-        "foreground": "#0062ff"
+        "foreground": "#00ffff"
       }
     },
     {
